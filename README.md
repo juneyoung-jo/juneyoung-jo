@@ -1,5 +1,5 @@
 <a href="https://www.notion.so/3f2a8300f32549ff857cfe5beefabcd9">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&fontColor=black&height=300&section=header&text=JuneYoung%20Jo&fontSize=85" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=dark&fontColor=black&height=300&section=header&text=JuneYoung%20Jo&fontSize=85" />
 </a>
 
 <!-- <h3 align="center">
@@ -56,7 +56,7 @@
 </p> -->
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=juneyoung-jo&show_icons=true&theme=flag-dark&count_private=true"/></a>
+    <img src="https://github-readme-stats.vercel.app/api?username=juneyoung-jo&show_icons=true&theme=dark&count_private=true"/></a>
 </p>
 
 
