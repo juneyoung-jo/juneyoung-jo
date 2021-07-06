@@ -1,6 +1,6 @@
-<a href="https://www.notion.so/3f2a8300f32549ff857cfe5beefabcd9">
+<!-- <a href="https://www.notion.so/3f2a8300f32549ff857cfe5beefabcd9"> -->
     <img src="https://capsule-render.vercel.app/api?type=waving&color=dark&fontColor=black&height=300&section=header&text=JuneYoung%20Jo&fontSize=85" />
-</a>
+<!-- </a> -->
 
 <!-- <h3 align="center">
     <a href="https://www.notion.so/3f2a8300f32549ff857cfe5beefabcd9" style="color: black; text-decoration: none;"> 
